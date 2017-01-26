@@ -17,6 +17,10 @@ public class Main {
 
 		System.out.println( "Howdy!  My name is Wayne Pollock." );
 		counter++;
+		
+		//Jessica Stepp
+		System.out.println("Hello Java II ~~ Jessica");
+		counter++;
 
                 // Bradley Claus
                 System.out.println("Hello from Bradley Claus!");
