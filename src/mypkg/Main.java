@@ -29,6 +29,10 @@ public class Main {
         // Jonathan Llaneras
     	System.out.println( "Hello my name is Jonathan!!!" );
         counter++;
+		
+		//Douglas Shirilla
+		System.out.println("Hello, this is Douglas Shirilla");
+		counter++;
 
 		System.out.println( "Number of people who edited this file: "
 				+ counter );		
