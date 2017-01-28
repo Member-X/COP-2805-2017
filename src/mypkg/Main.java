@@ -33,6 +33,10 @@ public class Main {
 		//Douglas Shirilla
 		System.out.println("Hello, this is Douglas Shirilla");
 		counter++;
+                
+                //Roger Greer
+                System.out.println("Greetings from Roger.");
+                counter++;
 
 		System.out.println( "Number of people who edited this file: "
 				+ counter );		
